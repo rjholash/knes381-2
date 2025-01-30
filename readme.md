@@ -5,3 +5,7 @@
 + Bullet list
 + second item bullet list
     +third bullet
+ 
+- [ ] Checkbox list
+
+- [x] Completed checkbox
